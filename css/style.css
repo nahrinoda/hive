@@ -1,0 +1,59 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.boyOnLader {
+  position: absolute;
+}
+
+.navHover {
+}
+
+.navHover:hover {
+  background-color: rgba(255, 255, 255, 0.822);
+}
+
+.signinBtn:hover {
+  background-color: rgb(0, 225, 255);
+  color: white;
+  border-color: white;
+}
+
+button {
+  border-radius: 80px !important;
+}
+
+main{
+    height: 40rem;
+}
+
+.thickFont{
+    font-weight: 1000 !important;
+}
+.lineHight {
+    line-height: 2.5 !important;
+}
+
+#sectionTow{
+    background-color: rgba(251, 143, 255, 0.479);
+}
+
+footer {
+    display: flex;
+    padding: 10px 5px;
+   background-color: rgba(22, 22, 22, 0.342);
+}
+
+footer p {
+    flex: 1;
+    margin: 0;
+}
+
+footer ul {
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+}
