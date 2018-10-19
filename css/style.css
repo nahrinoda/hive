@@ -6,9 +6,6 @@ body {
   position: absolute;
 }
 
-.navHover {
-}
-
 .navHover:hover {
   background-color: rgba(255, 255, 255, 0.822);
 }
@@ -41,7 +38,7 @@ main{
 footer {
     display: flex;
     padding: 10px 5px;
-   background-color: rgba(22, 22, 22, 0.342);
+
 }
 
 footer p {
